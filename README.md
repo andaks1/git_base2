@@ -192,6 +192,8 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
  
  #### Ответ на задание 4
 ![img1](img/zadanie4/04_01.png)
+![img2](img/zadanie4/04_02.png)
+![img3](img/zadanie4/04_03.png)
 
 ----
 
