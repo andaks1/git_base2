@@ -147,6 +147,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 Создание аннотированного тега ```git tag -a v0.1``` и его пуш в разные origin'ы:
 ![antag](img/zadanie2/02_02.png)
 
+---
 
 ## Задание 3. Ветки 
 
@@ -161,6 +162,14 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 1. Теперь измените содержание файла `README.md`, добавив новую строчку.
 1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
+
+#### Ответ на задание 3.
+Создание новой ветки ```fix``` с определенного коммита:
+![first](img/zadanie3/03_01.png)
+
+![second](img/zadanie3/03_02.png)
+
+---
 
 ## Задание 4. Упрощаем себе жизнь
 
@@ -180,6 +189,9 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 Подробней о визуальном интерфейсе мы расскажем на одной из следующих лекций.
 
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
+ 
+ #### Ответ на задание 4
+
  
 ----
 
