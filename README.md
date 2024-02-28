@@ -142,7 +142,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 #### Ответ на задание 2.
 Создание легковесного тега и его пуш в разные origin'ы:
-![ltag](img/zadani2/02_01.png)
+![ltag](img/zadanie2/02_01.png)
 
 Создание аннотированного тега и его пуш в разные origin'ы
 ![antag](img/zadanie2/02_02.png)
